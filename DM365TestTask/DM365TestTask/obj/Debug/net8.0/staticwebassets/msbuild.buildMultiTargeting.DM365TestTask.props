@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DM365TestTask.props" />
+</Project>

@@ -1,0 +1,6 @@
+@DM365TestTask_HostAddress = http://localhost:5137
+
+GET {{DM365TestTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
